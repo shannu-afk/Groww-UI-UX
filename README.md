@@ -147,7 +147,6 @@ Start production server:
 ### Deploy on Vercel
 - Connect GitHub repository
 - Auto build on push
-- Live URL: https://ui-ux-trade-pro.vercel.app
 
 ### Other hosting options
 - Netlify
