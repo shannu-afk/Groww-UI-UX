@@ -61,7 +61,7 @@ A modern, responsive trading platform built with Next.js, featuring real-time ma
 ### Installation
 
 Clone the repository:
-    git clone https://github.com/shannu-afk/Groww-UI/UX.git
+    git clone https://github.com/shannu-afk/Groww-UI-UX.git
 
 Install dependencies:
     npm install
